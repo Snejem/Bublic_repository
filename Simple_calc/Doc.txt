@@ -1,0 +1,6 @@
+!!!Update!!!
+Added functions
+	pow(a, b_1 b_2 ... b_n) = a^(b_1^(...b_{n-1}^b_n))
+		a should be bigger then 0, 0^0 undefined
+	root(a, b_1 b_2 ... b_n) = a^1/(b_1*b_2*... *b_n)
+		a should be bigger or equal 0, b_1 ... b_n should be bigger or equal 1
